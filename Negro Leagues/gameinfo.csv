@@ -5906,7 +5906,6 @@ BLG194905040,KCM,BLG,CHE01,19490504,0,0:00PM,night,,,false,,0,0,unknown,unknown,
 IN9194905040,NY6,IN9,POR01,19490504,0,,night,,,FALSE,,,1500,,,,,,,,,,,,,,,loper102,cathw101,,regular,8,3,NY6,IN9,y,p,,,,1949
 LCB194905040,PH5,LCB,DAY03,19490504,0,,night,,,FALSE,,,,,,,,,,,,,,,,,,,jonep103,,regular,11,9,PH5,LCB,y,both,,,,1949
 MEM194905040,CAG,MEM,MEM02,19490504,0,,night,,,FALSE,,,,,,,,,,,,,,,,,,,,,regular,5,4,CAG,MEM,y,both,,,,1949
-NY6194905040,NY6,IN9,POR01,19490504,0,,night,,,FALSE,,,1500,,,,,,,,,,,,,,,loper102,cathw101,,regular,3,8,NY6,IN9,,,,,,1949
 BIR194905050,HOE,BIR,BIR01,19490505,0,,night,,,FALSE,,,,,,,,,,,,,,,,,,poweb103,,,regular,3,7,BIR,HOE,y,both,,,,1949
 LCB194905050,PH5,LCB,CHA01,19490505,0,,night,,,FALSE,,,1700,,,,,,,,,,,,,,,grifb102,browj114,,regular,9,0,PH5,LCB,y,both,,,,1949
 MEM194905050,CAG,MEM,HSP01,19490505,0,,,,,,,,,,,,,,,,,,,,,,,,,,regular,4,13,MEM,CAG,,,,,,1949
