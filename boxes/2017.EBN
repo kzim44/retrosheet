@@ -11543,7 +11543,7 @@ stat,dline,adamm002,0,1,7,21,1,0,0,0,0,0
 stat,dline,roset001,0,1,1,3,0,0,0,0,0,0
 stat,dline,oh--s001,0,1,1,3,0,0,0,0,0,0
 stat,dline,carpm002,0,1,3,27,10,0,0,0,0,0
-stat,dline,gricr001,0,2,9,27,6,0,0,0,0,0
+stat,dline,gricr001,0,1,9,27,6,0,0,0,0,0
 stat,dline,diaza003,0,1,6,21,1,1,0,0,0,0
 stat,dline,diaza003,0,2,7,6,1,0,0,0,0,0
 stat,dline,phamt001,0,1,8,27,3,0,0,0,0,0

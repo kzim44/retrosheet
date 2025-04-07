@@ -32596,7 +32596,7 @@ stat,dline,heref001,0,1,1,6,0,0,0,0,0,0
 stat,dline,powej001,0,1,1,3,0,0,0,0,0,0
 stat,dline,cangj001,0,1,7,3,0,0,0,0,0,0
 stat,dline,shefg001,0,1,9,27,1,0,0,0,0,0
-stat,dline,aloum001,0,2,8,27,3,0,0,0,0,0
+stat,dline,aloum001,0,1,8,27,3,0,0,0,0,0
 stat,dline,bonib001,0,1,5,27,0,4,0,0,0,0
 stat,dline,conij001,0,1,3,27,10,0,0,1,0,0
 stat,dline,zaung001,0,1,2,27,7,0,0,0,0,0
@@ -131541,7 +131541,7 @@ stat,dline,vizcj001,0,1,6,24,3,3,0,1,0,0
 stat,dline,bondb001,0,1,7,24,3,0,0,0,0,0
 stat,dline,lewim001,0,1,4,24,0,4,0,1,0,0
 stat,dline,snowj001,0,1,3,24,8,2,0,2,0,0
-stat,dline,javis001,0,2,8,24,1,0,0,0,0,0
+stat,dline,javis001,0,1,8,24,1,0,0,0,0,0
 stat,dline,muelb001,0,1,5,24,2,2,0,1,0,0
 stat,dline,johnb002,0,1,2,24,5,0,0,0,0,0
 stat,dline,foulk001,0,1,1,6,1,0,0,0,0,0

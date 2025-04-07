@@ -3914,7 +3914,7 @@ stat,dline,reeda001,0,1,1,4,0,0,0,0,0,0
 stat,dline,pennc001,0,1,7,27,3,1,0,0,0,0
 stat,dline,polla001,0,1,8,27,7,0,0,0,0,0
 stat,dline,goldp001,0,1,3,27,9,0,0,2,0,0
-stat,dline,perad001,0,2,9,27,2,0,0,0,0,0
+stat,dline,perad001,0,1,9,27,2,0,0,0,0,0
 stat,dline,lambj001,0,1,5,27,0,2,1,0,0,0
 stat,dline,owinc001,0,1,4,27,2,3,0,2,0,0
 stat,dline,castw002,0,1,2,27,3,0,0,0,0,0

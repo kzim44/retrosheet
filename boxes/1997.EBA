@@ -79191,7 +79191,7 @@ info,umphome,phild901
 info,ump1b,roe-r901
 info,ump2b,merrd901
 info,ump3b,scotd901
-info,temp,0
+info,temp,69
 info,winddir,unknown
 info,windspeed,-1
 info,fieldcond,unknown
@@ -79423,7 +79423,7 @@ info,umphome,merrd901
 info,ump1b,scotd901
 info,ump2b,phild901
 info,ump3b,roe-r901
-info,temp,0
+info,temp,70
 info,winddir,unknown
 info,windspeed,-1
 info,fieldcond,unknown
@@ -85158,7 +85158,7 @@ info,umphome,hendt901
 info,ump1b,barnl901
 info,ump2b,(none)
 info,ump3b,koscg901
-info,temp,0
+info,temp,68
 info,winddir,unknown
 info,windspeed,-1
 info,fieldcond,unknown
@@ -108225,7 +108225,7 @@ stat,dline,myerm001,0,1,1,2,0,0,0,0,0,0
 stat,dline,miced001,0,1,1,2,0,0,0,0,0,0
 stat,dline,jonet003,0,1,1,3,0,0,0,0,0,0
 stat,dline,huntb002,0,1,8,27,4,0,0,0,0,0
-stat,dline,higgb001,0,2,9,27,0,0,0,0,0,0
+stat,dline,higgb001,0,1,9,27,0,0,0,0,0,0
 stat,dline,nevip001,0,1,7,27,0,0,0,0,0,0
 stat,dline,clart002,0,1,3,27,8,2,0,0,0,0
 stat,dline,frymt001,0,1,5,27,1,1,0,0,0,0
@@ -125212,7 +125212,7 @@ info,umphome,mckej901
 info,ump1b,hendt901
 info,ump2b,hirsj901
 info,ump3b,denkd901
-info,temp,0
+info,temp,60
 info,winddir,unknown
 info,windspeed,-1
 info,fieldcond,unknown
@@ -125325,7 +125325,7 @@ info,umphome,hendt901
 info,ump1b,hirsj901
 info,ump2b,denkd901
 info,ump3b,mckej901
-info,temp,0
+info,temp,68
 info,winddir,unknown
 info,windspeed,-1
 info,fieldcond,unknown
@@ -127705,7 +127705,7 @@ info,umphome,garcr901
 info,ump1b,onorb901
 info,ump2b,reilm901
 info,ump3b,younl901
-info,temp,0
+info,temp,68
 info,winddir,unknown
 info,windspeed,-1
 info,fieldcond,dry

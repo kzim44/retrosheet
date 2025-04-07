@@ -71266,12 +71266,12 @@ stat,pline,montr004,1,4,3,0,6,1,0,0,0,0,0,2,0,1,0,0,0,0,0
 stat,dline,klubc001,0,1,1,15,0,0,0,0,0,0
 stat,dline,mcgee001,0,1,1,9,0,0,0,0,0,0
 stat,dline,margm001,0,1,8,24,2,0,0,0,0,0
-stat,dline,arozr001,0,2,7,24,3,0,0,0,0,0
+stat,dline,arozr001,0,1,7,24,3,0,0,0,0,0
 stat,dline,aranj001,0,1,4,24,1,1,1,1,0,0
 stat,dline,choij001,0,1,3,24,7,0,0,1,0,0
 stat,dline,bethc001,0,1,2,24,5,0,0,0,0,0
 stat,dline,parei001,0,1,5,24,0,4,0,1,0,0
-stat,dline,mastm001,0,2,9,24,6,0,0,0,0,0
+stat,dline,mastm001,0,1,9,24,6,0,0,0,0,0
 stat,dline,wallt003,0,1,6,24,0,2,0,0,0,0
 stat,dline,garcl007,1,1,1,18,1,0,0,0,0,0
 stat,dline,stanr002,1,1,1,3,0,0,0,0,0,0

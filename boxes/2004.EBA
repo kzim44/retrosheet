@@ -57935,7 +57935,7 @@ stat,dline,kazms001,0,1,1,18,0,1,0,0,0,0
 stat,dline,gaudc001,0,1,1,6,0,0,0,0,0,0
 stat,dline,uptob001,0,1,5,24,1,1,1,0,0,0
 stat,dline,lugoj001,0,1,6,24,2,2,0,0,0,0
-stat,dline,huffa001,0,2,7,24,2,0,0,0,0,0
+stat,dline,huffa001,0,1,7,24,2,0,0,0,0,0
 stat,dline,martt002,0,1,3,24,7,0,0,0,0,0
 stat,dline,baldr001,0,1,8,24,2,0,0,0,0,0
 stat,dline,cruzj004,0,1,9,24,2,0,0,0,0,0
@@ -108369,7 +108369,7 @@ stat,dline,geruj001,0,1,9,28,1,0,0,0,0,0
 stat,dline,martv001,0,1,2,28,7,1,0,0,0,0
 stat,dline,merll001,0,1,3,28,10,0,0,0,0,0
 stat,dline,blakc001,0,1,5,28,0,1,0,0,0,0
-stat,dline,escoa002,0,2,7,28,6,0,0,0,0,0
+stat,dline,escoa002,0,1,7,28,6,0,0,0,0,0
 stat,dline,crisc001,0,1,8,28,3,0,0,0,0,0
 stat,dline,hendm001,1,1,1,21,0,2,0,0,0,0
 stat,dline,harpt002,1,1,1,9,1,0,0,0,0,0

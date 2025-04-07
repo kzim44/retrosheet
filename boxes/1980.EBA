@@ -116653,13 +116653,13 @@ stat,pline,darwd001,1,4,2,0,3,0,0,0,0,0,0,1,1,1,0,0,0,0,0
 stat,dline,torrm001,0,1,1,15,0,1,0,0,0,0
 stat,dline,dragd101,0,1,1,8,2,1,0,1,0,0
 stat,dline,burgt001,0,1,1,3,0,0,0,0,0,0
+stat,dline,burgt001,0,2,7,1,0,0,0,0,0,0
 stat,dline,burlr001,0,1,6,27,4,3,0,2,0,0
 stat,dline,stapd001,0,1,4,27,2,2,0,1,0,0
 stat,dline,lynnf001,0,1,8,27,1,0,0,0,0,0
 stat,dline,peret001,0,1,3,15,6,0,0,1,0,0
 stat,dline,dwyej001,0,1,3,12,3,3,0,2,0,0
 stat,dline,ricej001,0,1,7,26,1,0,0,0,0,0
-stat,dline,burgt001,0,1,7,1,0,0,0,0,0,0
 stat,dline,fiskc001,0,1,2,27,6,1,0,0,0,0
 stat,dline,evand002,0,1,9,27,2,0,0,0,0,0
 stat,dline,locks101,0,1,1,1,0,0,0,0,0,0

@@ -57601,7 +57601,7 @@ stat,dline,gorda001,0,1,5,18,0,1,0,0,0,0
 stat,dline,smitj001,0,1,5,9,0,0,0,0,0,0
 stat,dline,buckj001,0,1,2,27,8,0,0,0,0,0
 stat,dline,penat002,0,1,6,27,2,4,0,1,0,0
-stat,dline,maiem001,0,2,9,27,2,0,0,0,0,0
+stat,dline,maiem001,0,1,9,27,2,0,0,0,0,0
 stat,dline,roben001,1,1,1,14,0,1,1,0,0,0
 stat,dline,lambc001,1,1,1,7,0,1,0,0,0,0
 stat,dline,dolsf001,1,1,1,6,0,0,0,0,0,0

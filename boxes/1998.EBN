@@ -78296,7 +78296,7 @@ stat,dline,ciana001,0,1,3,9,3,0,0,1,0,0
 stat,dline,ciana001,0,2,5,6,0,0,0,0,0,0
 stat,dline,vaugg001,0,1,7,27,2,0,0,0,0,0
 stat,dline,hernc001,0,1,2,27,9,0,0,0,0,0
-stat,dline,giove001,0,2,4,27,1,2,0,0,0,0
+stat,dline,giove001,0,1,4,27,1,2,0,0,0,0
 stat,dline,gomec001,0,1,6,21,2,2,0,1,0,0
 stat,dline,sweem001,0,1,3,6,2,0,0,0,0,0
 stat,dline,hitcs001,0,1,1,15,0,1,0,0,0,0
@@ -126501,7 +126501,7 @@ stat,dline,jordb001,0,2,9,6,0,0,0,0,0,0
 stat,dline,gaetg001,0,1,5,24,0,1,0,0,0,0
 stat,dline,pagnt001,0,1,2,24,7,2,0,0,0,0
 stat,dline,clayr001,0,1,6,24,0,5,0,0,0,0
-stat,dline,huntb001,0,2,3,18,6,0,0,0,0,0
+stat,dline,huntb001,0,1,3,18,6,0,0,0,0,0
 stat,dline,lankr001,0,1,8,6,0,0,0,0,0,0
 stat,dline,stott001,0,1,1,18,0,1,0,0,0,0
 stat,dline,kingc001,0,1,1,6,2,0,0,0,0,0

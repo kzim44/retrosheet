@@ -2392,7 +2392,7 @@ stat,pline,arrej001,1,5,3,0,6,3,1,0,0,1,1,0,0,1,0,0,0,0,0
 stat,dline,dankj001,0,1,1,18,0,1,0,0,0,0
 stat,dline,carrd001,0,1,1,6,1,1,0,0,0,0
 stat,dline,gobbj001,0,1,1,3,0,0,0,0,0,0
-stat,dline,podss001,0,2,7,27,2,0,0,0,0,0
+stat,dline,podss001,0,1,7,27,2,0,0,0,0,0
 stat,dline,ramia003,0,1,6,27,1,5,0,1,0,0
 stat,dline,dye-j001,0,1,9,27,1,0,0,0,0,0
 stat,dline,konep001,0,1,3,15,4,0,0,1,0,0
@@ -70788,7 +70788,7 @@ stat,dline,carrj001,0,1,5,21,1,3,0,1,0,0
 stat,dline,carrj001,0,2,4,3,1,0,0,0,0,0
 stat,dline,franb001,0,1,7,24,1,0,0,0,0,0
 stat,dline,martv001,0,1,3,24,11,0,1,2,0,0
-stat,dline,peraj001,0,2,6,24,1,3,0,2,0,0
+stat,dline,peraj001,0,1,6,24,1,3,0,2,0,0
 stat,dline,derom001,0,1,9,21,1,0,0,0,0,0
 stat,dline,derom001,0,2,5,3,0,1,0,0,0,0
 stat,dline,valbl001,0,1,4,21,0,4,0,0,0,0
@@ -72780,7 +72780,7 @@ stat,dline,fielj001,0,1,3,3,0,0,0,0,0,0
 stat,dline,piera001,0,1,2,24,6,1,0,1,0,1
 stat,dline,getzc001,0,1,4,24,4,4,0,1,0,0
 stat,dline,beckg001,0,1,5,24,1,0,2,0,0,0
-stat,dline,wised001,0,2,7,18,0,0,0,0,0,0
+stat,dline,wised001,0,1,7,18,0,0,0,0,0,0
 stat,dline,andeb003,0,1,8,6,2,0,0,0,0,0
 stat,dline,bakes002,1,1,1,19,0,0,0,0,0,0
 stat,dline,mijaj001,1,1,1,1,0,0,0,0,0,0
@@ -106911,9 +106911,9 @@ stat,dline,beckj002,0,1,1,14,0,0,0,0,0,0
 stat,dline,joneh001,0,1,1,4,0,1,0,0,0,0
 stat,dline,saitt001,0,1,1,3,0,0,0,0,0,0
 stat,dline,lopej002,0,1,1,1,0,0,0,0,0,0
+stat,dline,lopej002,0,2,9,2,0,0,0,0,0,0
 stat,dline,ellsj001,0,1,8,24,2,0,0,0,0,0
 stat,dline,pedrd001,0,1,4,24,0,2,0,0,0,0
-stat,dline,lopej002,0,1,9,2,0,0,0,0,0,0
 stat,dline,youkk001,0,1,3,15,2,0,0,0,0,0
 stat,dline,bailj001,0,1,3,9,4,0,0,0,0,0
 stat,dline,drewj001,0,1,9,18,0,0,0,0,0,0

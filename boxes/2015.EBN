@@ -54927,7 +54927,7 @@ stat,dline,poseb001,0,1,2,27,6,1,0,0,0,0
 stat,dline,beltb001,0,1,3,27,12,1,0,1,0,0
 stat,dline,crawb001,0,1,6,27,0,5,0,1,0,0
 stat,dline,duffm002,0,1,5,27,1,3,0,0,0,0
-stat,dline,blang001,0,2,7,27,2,0,0,0,0,0
+stat,dline,blang001,0,1,7,27,2,0,0,0,0,0
 stat,dline,hudst001,0,1,1,19,1,1,0,0,0,0
 stat,dline,strih001,0,1,1,5,0,0,0,0,0,0
 stat,dline,romos001,0,1,1,3,0,0,0,0,0,0
@@ -68958,7 +68958,7 @@ stat,pline,mcgos001,1,4,6,0,9,3,0,0,0,1,1,1,0,0,0,0,0,0,0
 stat,dline,renda001,0,1,4,27,2,4,0,1,0,0
 stat,dline,escoy001,0,1,5,27,0,1,0,0,0,0
 stat,dline,dendm001,0,1,7,27,0,0,0,0,0,0
-stat,dline,wertj001,0,2,9,27,3,0,0,0,0,0
+stat,dline,wertj001,0,1,9,27,3,0,0,0,0,0
 stat,dline,desmi001,0,1,6,27,3,2,0,1,0,0
 stat,dline,ramow001,0,1,2,27,7,0,0,0,0,0
 stat,dline,taylm002,0,1,8,27,3,0,0,0,0,0
@@ -93818,7 +93818,7 @@ stat,pline,haraa001,1,1,18,0,29,9,1,0,1,5,4,1,0,5,1,2,0,1,1
 stat,pline,gomej002,1,2,6,0,6,0,0,0,0,0,0,0,0,4,0,0,0,0,0
 stat,pline,araue001,1,3,3,0,4,0,0,0,0,0,0,1,0,1,0,0,0,0,0
 stat,dline,taylm002,0,1,8,27,4,1,0,0,0,0
-stat,dline,espid001,0,2,5,27,1,2,0,0,0,0
+stat,dline,espid001,0,1,5,27,1,2,0,0,0,0
 stat,dline,uggld001,0,1,4,27,0,3,0,0,0,0
 stat,dline,robic001,0,1,7,27,1,0,0,0,0,0
 stat,dline,ramow001,0,1,2,27,7,0,0,0,0,0

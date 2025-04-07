@@ -24776,7 +24776,7 @@ stat,dline,owinm001,0,1,1,3,0,0,0,0,0,0
 stat,dline,hernr002,0,1,2,15,4,0,0,0,0,0
 stat,dline,millc001,0,1,2,12,6,0,0,1,0,0
 stat,dline,brucj001,0,1,9,27,0,0,1,0,0,0
-stat,dline,cairm001,0,2,3,27,10,0,0,0,0,0
+stat,dline,cairm001,0,1,3,27,10,0,0,0,0,0
 stat,dline,stubd001,0,1,8,27,2,0,0,0,0,0
 stat,dline,leakm001,0,1,1,18,0,2,0,0,0,0
 stat,dline,massn001,0,1,1,3,0,0,0,0,0,0
@@ -132531,7 +132531,7 @@ stat,dline,tronr001,0,1,1,2,0,0,0,0,0,0
 stat,dline,sherg001,0,1,1,1,0,0,0,0,0,0
 stat,dline,millj002,0,1,1,2,0,0,0,0,0,0
 stat,dline,belir001,0,1,1,1,0,0,0,0,0,0
-stat,dline,johnr008,0,2,7,27,2,0,0,0,0,0
+stat,dline,johnr008,0,1,7,27,2,0,0,0,0,0
 stat,dline,ely-j001,0,1,1,21,0,0,0,0,0,0
 stat,dline,carrj001,0,1,4,6,0,0,0,0,0,0
 stat,dline,torra001,1,1,8,27,1,0,0,0,0,0

@@ -90281,6 +90281,7 @@ stat,dline,holdj002,1,1,1,3,0,0,0,0,0,0
 stat,dline,clipt001,1,1,1,3,0,0,0,0,0,0
 stat,dline,betad001,1,1,1,3,0,0,0,0,0,0
 stat,dline,mitcb001,1,1,1,6,0,0,0,0,0,0
+stat,dline,mitcb001,1,2,3,3,1,0,1,0,0,0
 stat,dline,gardb001,1,1,7,33,2,0,0,0,0,0
 stat,dline,hicka001,1,1,8,33,1,0,0,0,0,0
 stat,dline,chapa001,1,1,1,3,0,0,0,0,0,0
@@ -90290,7 +90291,6 @@ stat,dline,judga001,1,1,9,33,7,0,0,0,0,0
 stat,dline,headc001,1,1,5,33,0,1,1,0,0,0
 stat,dline,gregd001,1,1,6,33,1,4,0,1,0,0
 stat,dline,cartc002,1,1,3,27,4,0,0,1,0,0
-stat,dline,mitcb001,1,1,3,3,1,0,1,0,0,0
 stat,dline,higak001,1,1,2,24,11,0,0,0,0,0
 stat,dline,romia002,1,1,2,9,3,0,0,0,0,0
 stat,phline,ellsj001,8,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -123563,7 +123563,7 @@ stat,dline,morem001,0,1,3,24,5,0,0,0,0,0
 stat,dline,benia002,0,1,7,24,1,0,0,0,0,0
 stat,dline,bradj001,0,1,8,24,2,0,1,0,0,0
 stat,dline,leons001,0,1,2,24,12,1,0,0,0,0
-stat,dline,lin-t001,0,2,6,24,1,1,0,0,0,0
+stat,dline,lin-t001,0,1,6,24,1,1,0,0,0,0
 stat,dline,farij001,1,1,1,18,1,1,0,0,0,0
 stat,dline,boxbb001,1,1,1,3,0,1,0,0,0,0
 stat,dline,huntt002,1,1,1,3,0,0,1,0,0,0
@@ -124946,7 +124946,7 @@ stat,dline,sogae001,0,1,4,24,2,1,0,1,0,0
 stat,dline,shawt001,0,1,5,24,0,2,0,0,0,0
 stat,dline,aguij001,0,1,3,24,8,1,0,2,0,0
 stat,dline,thame001,0,1,7,24,1,0,0,0,0,0
-stat,dline,pereh001,0,2,9,24,0,0,0,0,0,0
+stat,dline,pereh001,0,1,9,24,0,0,0,0,0,0
 stat,dline,pinam001,0,1,2,24,9,0,0,0,0,0
 stat,dline,broxk001,0,1,8,24,1,0,0,0,0,0
 stat,dline,arcio002,0,1,6,24,2,6,0,2,0,0

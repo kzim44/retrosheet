@@ -28753,13 +28753,13 @@ stat,dline,wagnn001,0,1,1,0,0,0,0,0,0,0
 stat,dline,jeffj001,0,1,1,3,0,0,0,0,0,0
 stat,dline,olivd001,0,1,1,3,0,0,0,0,0,0
 stat,dline,reyej001,0,1,6,24,2,4,0,2,0,0
-stat,dline,davir003,0,2,9,24,0,0,0,0,0,0
+stat,dline,davir003,0,1,9,24,0,0,0,0,0,0
 stat,dline,lawrb002,0,1,5,24,1,0,0,0,0,0
 stat,dline,pillk001,0,1,7,21,1,0,0,0,0,0
 stat,dline,linda001,0,1,3,3,0,0,0,0,0,0
 stat,dline,derom001,0,1,3,21,8,1,0,3,0,0
 stat,dline,derom001,0,2,7,3,0,0,0,0,0,0
-stat,dline,gosea001,0,3,8,24,2,1,0,0,0,0
+stat,dline,gosea001,0,1,8,24,2,1,0,0,0,0
 stat,dline,arenj001,0,1,2,24,7,1,0,1,0,0
 stat,dline,goinr001,0,1,4,24,2,3,0,1,0,0
 stat,dline,lestj001,1,1,1,21,0,0,0,0,0,0
@@ -115601,7 +115601,7 @@ stat,dline,choim001,0,2,9,12,0,0,0,0,0,0
 stat,dline,smits002,0,1,7,27,4,0,0,0,0,0
 stat,dline,weekj001,0,1,4,15,0,3,0,0,0,0
 stat,dline,weekj001,0,2,8,12,1,0,0,0,0,0
-stat,dline,calla001,0,3,5,27,1,1,0,0,0,0
+stat,dline,calla001,0,1,5,27,1,1,0,0,0,0
 stat,dline,reddj001,0,1,9,15,0,0,0,0,0,0
 stat,dline,parra001,0,1,6,12,1,1,0,0,0,0
 stat,dline,norrd001,0,1,2,15,8,0,0,0,0,0
@@ -128179,7 +128179,7 @@ stat,dline,parrg001,0,1,9,24,2,0,0,0,0,0
 stat,dline,gregd001,0,1,6,24,3,1,0,0,0,0
 stat,dline,goldp001,0,1,3,24,7,0,0,0,0,0
 stat,dline,pennc001,0,1,4,24,1,3,0,0,0,0
-stat,dline,pradm001,0,2,5,24,0,1,0,0,0,0
+stat,dline,pradm001,0,1,5,24,0,1,0,0,0,0
 stat,dline,montm001,0,1,2,24,4,0,0,0,0,0
 stat,dline,rossc001,0,1,7,24,4,0,0,0,0,0
 stat,dline,polla001,0,1,8,24,2,0,0,0,0,0

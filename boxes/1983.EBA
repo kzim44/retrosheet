@@ -415,7 +415,7 @@ stat,dline,vukog001,0,1,9,27,7,0,0,0,0,0
 stat,dline,trilm001,0,1,4,27,3,2,0,2,0,0
 stat,dline,mannr001,0,1,8,27,5,0,0,0,0,0
 stat,dline,bandc001,0,1,2,27,1,0,0,0,0,0
-stat,dline,fiscm001,0,2,5,27,1,2,1,1,0,0
+stat,dline,fiscm001,0,1,5,27,1,2,1,1,0,0
 stat,dline,martd001,1,1,1,10,0,2,0,0,0,0
 stat,dline,welcd101,1,1,1,13,1,0,0,0,0,0
 stat,dline,martt001,1,1,1,4,0,0,0,0,0,0
@@ -91099,7 +91099,7 @@ stat,dline,rhomk001,0,1,7,6,2,0,0,0,0,0
 stat,dline,hassr001,0,1,2,24,3,0,0,0,0,0
 stat,dline,castc001,0,1,9,21,1,0,0,0,0,0
 stat,dline,vukog001,0,1,9,3,1,0,1,0,0,0
-stat,dline,fiscm001,0,2,6,24,2,5,1,2,0,0
+stat,dline,fiscm001,0,1,6,24,2,5,1,2,0,0
 stat,dline,rawls001,1,1,1,21,0,0,0,0,0,0
 stat,dline,frazg001,1,1,1,6,0,0,0,0,0,0
 stat,dline,randw001,1,1,4,27,6,4,0,1,0,0

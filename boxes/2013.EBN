@@ -143927,7 +143927,7 @@ stat,dline,gatte001,0,1,7,18,0,0,0,0,0,0
 stat,dline,avill001,0,1,1,3,0,0,0,0,0,0
 stat,dline,waldj001,0,1,1,3,0,0,0,0,0,0
 stat,dline,kimbc001,0,1,1,3,0,0,0,0,0,0
-stat,dline,uptoj001,0,2,9,27,2,0,0,0,0,0
+stat,dline,uptoj001,0,1,9,27,2,0,0,0,0,0
 stat,dline,freef001,0,1,3,27,7,2,0,0,0,0
 stat,dline,mccab002,0,1,2,27,9,2,0,0,0,0
 stat,dline,johnc003,0,1,5,24,0,1,1,0,0,0

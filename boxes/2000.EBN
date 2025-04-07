@@ -4284,7 +4284,7 @@ stat,dline,gonzl001,1,1,7,27,3,0,0,0,0,0
 stat,dline,durae001,1,1,3,27,7,0,0,0,0,0
 stat,dline,finls001,1,1,8,27,6,0,0,0,0,0
 stat,dline,lee-t002,1,1,9,27,2,0,0,0,0,0
-stat,dline,stink001,1,1,2,27,7,1,0,0,0,0
+stat,dline,stink001,1,1,2,27,7,2,0,0,0,0
 stat,dline,counc001,1,1,5,27,0,2,1,0,0,0
 stat,dline,johnr005,1,1,1,21,0,0,0,0,0,0
 stat,dline,sprir001,1,1,1,2,0,0,0,0,0,0
@@ -34825,10 +34825,10 @@ stat,dline,gonzl001,0,1,7,24,3,0,0,0,0,0
 stat,dline,willm003,0,1,5,21,0,1,0,0,0,0
 stat,dline,friah001,0,1,5,3,0,0,0,0,0,0
 stat,dline,finls001,0,1,8,24,2,0,0,0,0,0
-stat,dline,durae001,0,1,3,24,9,1,1,0,0,0
+stat,dline,durae001,0,1,3,24,9,0,1,0,0,0
 stat,dline,bautd001,0,1,9,24,2,0,0,0,0,0
 stat,dline,stink001,0,1,2,24,6,0,0,0,0,0
-stat,dline,andeb002,0,1,1,15,0,0,0,0,0,0
+stat,dline,andeb002,0,1,1,15,0,1,0,0,0,0
 stat,dline,sprir001,0,1,1,3,0,0,0,0,0,0
 stat,dline,padiv001,0,1,1,6,0,0,0,0,0,0
 stat,dline,castj004,1,1,4,27,2,3,0,1,0,0
@@ -41177,13 +41177,13 @@ stat,pline,cordf001,0,1,24,0,27,4,1,0,1,1,1,1,0,2,0,0,0,1,0
 stat,pline,willm005,0,2,3,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0
 stat,pline,yoshm001,1,1,24,0,33,8,3,0,0,2,2,2,0,2,0,0,0,0,0
 stat,pline,jimej001,1,2,3,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-stat,dline,morrw001,0,1,4,27,5,5,1,1,0,0
-stat,dline,kendj001,0,1,2,27,3,1,0,1,0,0
+stat,dline,morrw001,0,1,4,27,3,5,1,0,0,0
+stat,dline,kendj001,0,1,2,27,4,1,0,1,0,0
 stat,dline,cordw001,0,1,7,27,1,0,0,0,0,0
 stat,dline,gileb002,0,1,8,27,2,0,0,0,0,0
 stat,dline,vandj001,0,1,3,27,9,1,0,1,0,0
 stat,dline,browa001,0,1,9,27,5,0,0,0,0,0
-stat,dline,sojol001,0,1,5,27,1,2,0,1,0,0
+stat,dline,sojol001,0,1,5,27,2,2,0,2,0,0
 stat,dline,benjm001,0,1,6,27,0,1,0,0,0,0
 stat,dline,cordf001,0,1,1,24,1,2,0,0,0,0
 stat,dline,willm005,0,1,1,3,0,0,0,0,0,0
@@ -41202,7 +41202,7 @@ stat,phline,cruzi001,9,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 stat,prline,huntb002,9,1,0,0,0
 event,csline,1,lansm001,cordf001,kendj001,6
 event,dpline,1,lansm001,peren001,heltt001
-event,dpline,0,kendj001,morrw001
+event,dpline,0,kendj001,sojol001
 event,dpline,0,sojol001,vandj001
 event,hrline,1,yoshm001,cordf001,6,0,0
 line,0,0,0,0,0,0,1,1,0,0
@@ -58032,7 +58032,7 @@ stat,dline,blumg001,0,1,5,24,0,0,0,0,0,0
 stat,dline,guerw001,0,1,7,24,1,0,0,0,0,0
 stat,dline,guerv001,0,1,9,24,0,0,0,0,0,0
 stat,dline,vidrj001,0,1,4,24,2,5,0,1,0,0
-stat,dline,seguf001,0,2,3,24,7,1,0,1,0,0
+stat,dline,seguf001,0,1,3,24,7,1,0,1,0,0
 stat,dline,cabro001,0,1,6,24,1,3,0,1,0,0
 stat,dline,barrm003,0,1,2,24,10,1,0,0,0,1
 stat,dline,armat002,0,1,1,13,1,0,0,0,0,0

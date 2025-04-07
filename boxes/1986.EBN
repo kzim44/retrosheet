@@ -36802,7 +36802,7 @@ stat,dline,herrt001,0,1,4,24,6,3,0,1,0,0
 stat,dline,fordc001,0,1,9,24,1,0,0,0,0,0
 stat,dline,vansa001,0,1,3,24,5,2,0,1,0,0
 stat,dline,pendt001,0,1,5,24,0,2,0,0,0,0
-stat,dline,morrj003,0,2,8,24,1,0,0,0,0,0
+stat,dline,morrj003,0,1,8,24,1,0,0,0,0,0
 stat,dline,smito001,0,1,6,24,3,2,0,1,0,0
 stat,dline,lavam001,0,1,2,24,3,0,1,0,0,0
 stat,dline,mathg001,0,1,1,17,0,1,0,0,0,0
@@ -65332,8 +65332,8 @@ info,hometeam,NYN
 info,site,NYC17
 info,date,1986/09/18
 info,number,0
-info,starttime,0:00PM
-info,daynight,night
+info,starttime,1:35PM
+info,daynight,day
 info,usedh,false
 info,umphome,mcshj901
 info,ump1b,willb901
@@ -68240,11 +68240,11 @@ stat,pline,laskb001,0,3,6,0,7,2,1,0,0,0,0,0,0,1,0,0,0,0,0
 stat,pline,davim001,0,4,6,0,8,2,0,0,0,0,0,2,0,0,0,0,0,0,0
 stat,pline,rawls001,1,1,27,0,35,5,1,0,0,0,0,2,0,6,0,0,0,0,0
 stat,dline,maldc001,0,1,9,24,0,2,0,0,0,0
-stat,dline,brenb001,0,2,5,24,1,0,0,0,0,0
+stat,dline,brenb001,0,1,5,24,1,0,0,0,0,0
 stat,dline,aldrm001,0,1,3,24,8,0,0,3,0,0
 stat,dline,leonj001,0,1,7,24,2,0,0,0,0,0
 stat,dline,davic001,0,1,8,24,0,0,0,0,0,0
-stat,dline,melvb001,0,2,2,24,7,1,0,1,0,0
+stat,dline,melvb001,0,1,2,24,7,1,0,1,0,0
 stat,dline,thomr003,0,1,4,24,3,4,0,3,0,0
 stat,dline,uribj001,0,1,6,24,3,4,0,3,0,0
 stat,dline,garrs001,0,1,1,2,0,0,1,0,0,0

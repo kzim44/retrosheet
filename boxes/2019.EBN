@@ -115934,7 +115934,7 @@ stat,dline,hoskr001,0,1,3,24,12,0,0,1,0,0
 stat,dline,realj001,0,1,2,24,6,0,0,0,0,1
 stat,dline,kings001,0,1,5,24,0,3,0,0,0,0
 stat,dline,hernc005,0,1,4,24,1,5,0,1,0,0
-stat,dline,rodrs002,0,2,8,24,2,0,0,0,0,0
+stat,dline,rodrs002,0,1,8,24,2,0,0,0,0,0
 stat,dline,nolaa001,0,1,1,16,0,1,0,0,0,0
 stat,dline,hammj003,0,1,1,2,0,0,0,0,0,0
 stat,dline,davia003,0,1,1,3,0,0,0,0,0,0

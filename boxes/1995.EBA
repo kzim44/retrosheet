@@ -26884,7 +26884,7 @@ info,umphome,kaisk901
 info,ump1b,cousd901
 info,ump2b,welkt901
 info,ump3b,brinj901
-info,temp,0
+info,temp,53
 info,winddir,unknown
 info,windspeed,-1
 info,fieldcond,dry
@@ -69413,7 +69413,7 @@ info,umphome,younl901
 info,ump1b,garcr901
 info,ump2b,fordd901
 info,ump3b,reilm901
-info,temp,0
+info,temp,69
 info,winddir,unknown
 info,windspeed,-1
 info,fieldcond,dry
@@ -69529,7 +69529,7 @@ info,umphome,garcr901
 info,ump1b,fordd901
 info,ump2b,reilm901
 info,ump3b,younl901
-info,temp,0
+info,temp,67
 info,winddir,unknown
 info,windspeed,-1
 info,fieldcond,dry
@@ -69654,7 +69654,7 @@ info,umphome,fordd901
 info,ump1b,reilm901
 info,ump2b,younl901
 info,ump3b,garcr901
-info,temp,0
+info,temp,66
 info,winddir,unknown
 info,windspeed,-1
 info,fieldcond,dry
@@ -74133,7 +74133,7 @@ info,umphome,cousd901
 info,ump1b,welkt901
 info,ump2b,brinj901
 info,ump3b,kaisk901
-info,temp,0
+info,temp,70
 info,winddir,unknown
 info,windspeed,-1
 info,fieldcond,dry
@@ -74243,7 +74243,7 @@ info,umphome,welkt901
 info,ump1b,brinj901
 info,ump2b,kaisk901
 info,ump3b,cousd901
-info,temp,0
+info,temp,69
 info,winddir,unknown
 info,windspeed,-1
 info,fieldcond,dry
@@ -74351,7 +74351,7 @@ info,umphome,brinj901
 info,ump1b,kaisk901
 info,ump2b,cousd901
 info,ump3b,welkt901
-info,temp,0
+info,temp,69
 info,winddir,unknown
 info,windspeed,-1
 info,fieldcond,dry
@@ -83817,7 +83817,7 @@ info,umphome,hicke901
 info,ump1b,craft901
 info,ump2b,shulj901
 info,ump3b,tscht901
-info,temp,0
+info,temp,73
 info,winddir,unknown
 info,windspeed,-1
 info,fieldcond,dry
@@ -86499,7 +86499,7 @@ info,umphome,scotd901
 info,ump1b,reilm901
 info,ump2b,younl901
 info,ump3b,garcr901
-info,temp,0
+info,temp,60
 info,winddir,unknown
 info,windspeed,-1
 info,fieldcond,dry
@@ -87886,7 +87886,7 @@ info,umphome,reedr901
 info,ump1b,hirsj901
 info,ump2b,evanj901
 info,ump3b,mccol901
-info,temp,0
+info,temp,60
 info,winddir,unknown
 info,windspeed,13
 info,fieldcond,dry
@@ -110996,7 +110996,7 @@ info,umphome,duncr901
 info,ump1b,schwh902
 info,ump2b,mannt901
 info,ump3b,hubem901
-info,temp,0
+info,temp,68
 info,winddir,unknown
 info,windspeed,-1
 info,fieldcond,dry
@@ -117396,10 +117396,10 @@ stat,dline,keysb001,0,1,1,4,0,0,0,0,0,0
 stat,dline,mccak001,0,1,1,2,0,0,0,0,0,0
 stat,dline,hernr001,0,1,1,4,0,0,0,0,0,0
 stat,dline,johnl001,0,1,8,27,1,0,0,0,0,0
-stat,dline,martd002,0,2,9,27,0,0,0,0,0,0
+stat,dline,martd002,0,1,9,27,0,0,0,0,0,0
 stat,dline,grebc001,0,1,5,27,3,1,0,1,0,0
-stat,dline,ventr001,0,2,3,27,10,0,0,2,0,0
-stat,dline,moutl001,0,3,7,27,0,0,0,0,0,0
+stat,dline,ventr001,0,1,3,27,10,0,0,2,0,0
+stat,dline,moutl001,0,1,7,27,0,0,0,0,0,0
 stat,dline,durhr001,0,1,4,27,3,4,0,2,0,0
 stat,dline,karkr001,0,1,2,27,9,0,0,0,0,0
 stat,dline,guilo001,0,1,6,27,1,5,0,1,0,0

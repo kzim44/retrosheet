@@ -66566,14 +66566,14 @@ stat,pline,casha001,1,1,18,0,23,4,1,0,1,2,1,0,0,2,1,0,0,0,0
 stat,pline,barrk002,1,2,3,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 stat,pline,rodnf001,1,3,3,0,6,2,1,0,0,2,1,1,0,1,0,0,0,0,0
 stat,pline,ramoa001,1,4,3,0,4,0,0,0,0,0,0,1,0,1,0,0,0,0,0
-stat,dline,garcg002,0,7,6,26,1,4,0,3,0,0
+stat,dline,garcg002,0,1,6,26,1,4,0,3,0,0
 stat,dline,phamt001,0,1,8,26,2,0,0,0,0,0
 stat,dline,piscs001,0,1,9,26,1,0,0,0,0,0
 stat,dline,adamm002,0,1,3,26,7,1,0,3,0,0
 stat,dline,moliy001,0,1,2,26,6,1,0,0,0,0
-stat,dline,hazej001,0,2,7,26,5,0,0,0,0,0
+stat,dline,hazej001,0,1,7,26,5,0,0,0,0,0
 stat,dline,gyorj001,0,1,5,26,0,0,0,0,0,0
-stat,dline,wongk001,0,2,4,26,3,2,0,2,0,0
+stat,dline,wongk001,0,1,4,26,3,2,0,2,0,0
 stat,dline,martc006,0,1,1,21,1,1,1,1,0,0
 stat,dline,siegk001,0,1,1,3,0,0,0,0,0,0
 stat,dline,bowmm001,0,1,1,2,0,1,0,0,0,0

@@ -115061,8 +115061,8 @@ stat,dline,moonb001,0,1,1,15,0,1,0,0,0,0
 stat,dline,rijoj001,0,1,1,3,0,0,0,0,0,0
 stat,dline,baird001,0,1,1,6,0,0,0,0,0,0
 stat,dline,bochb001,0,1,3,24,4,0,0,2,0,0
-stat,dline,hilld001,0,2,4,24,3,2,0,2,0,0
-stat,dline,lansc001,0,3,5,24,1,0,0,0,0,0
+stat,dline,hilld001,0,1,4,24,3,2,0,2,0,0
+stat,dline,lansc001,0,1,5,24,1,0,0,0,0,0
 stat,dline,cansj001,0,1,7,24,0,0,0,0,0,0
 stat,dline,davim002,0,1,9,24,2,1,0,0,0,0
 stat,dline,grifa001,0,1,6,24,1,5,0,2,0,0

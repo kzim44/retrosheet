@@ -75300,7 +75300,7 @@ stat,pline,aguir001,0,3,3,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 stat,pline,parkc002,1,1,24,0,34,7,0,0,0,3,2,2,0,6,2,0,0,1,0
 stat,pline,shawj001,1,2,3,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 stat,dline,johnl001,0,1,8,24,2,1,0,0,0,0
-stat,dline,meyec001,0,2,7,24,0,0,0,0,0,0
+stat,dline,meyec001,0,1,7,24,0,0,0,0,0,0
 stat,dline,gracm001,0,1,3,24,7,1,0,0,0,0
 stat,dline,sosas001,0,1,9,24,4,0,0,0,0,0
 stat,dline,moram001,0,1,4,21,0,3,0,0,0,0
@@ -79889,7 +79889,7 @@ stat,dline,magad001,0,1,3,21,10,0,0,2,0,0
 stat,dline,magad001,0,2,5,6,0,1,0,0,0,0
 stat,dline,myerg001,0,1,2,21,0,0,0,0,0,0
 stat,dline,leyrj001,0,1,3,6,3,0,0,0,0,0
-stat,dline,giove001,0,2,4,27,4,5,0,2,0,0
+stat,dline,giove001,0,1,4,27,4,5,0,2,0,0
 stat,dline,river002,0,1,8,27,2,0,1,0,0,0
 stat,dline,gomec001,0,1,6,27,1,4,0,0,0,0
 stat,dline,murrh001,0,1,1,13,0,0,0,0,0,0
@@ -89280,7 +89280,7 @@ stat,pline,milla001,0,2,6,0,8,2,2,0,0,0,0,0,0,4,0,0,0,0,0
 stat,pline,hermd001,1,1,21,0,31,8,3,1,0,4,4,3,1,6,1,1,0,0,0
 stat,pline,telfa001,1,2,6,0,11,5,1,0,0,3,2,1,0,0,0,0,0,1,1
 stat,dline,grudm001,0,1,6,27,1,3,0,0,0,0
-stat,dline,vizcj001,0,2,4,27,0,3,0,0,0,0
+stat,dline,vizcj001,0,1,4,27,0,3,0,0,0,0
 stat,dline,shefg001,0,1,7,24,1,0,0,0,0,0
 stat,dline,brumj001,0,1,7,3,0,0,0,0,0,0
 stat,dline,mondr002,0,1,9,27,2,1,0,0,0,0

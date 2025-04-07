@@ -8618,8 +8618,8 @@ stat,dline,hernl001,0,1,7,27,3,0,0,0,0,0
 stat,dline,parrl001,0,1,2,21,3,1,0,1,0,0
 stat,dline,faheb101,0,1,2,6,1,0,0,0,0,0
 stat,dline,lemoc001,0,1,8,27,6,0,0,0,0,0
-stat,dline,cabee001,0,2,5,27,0,1,0,0,0,0
-stat,dline,broot001,0,3,4,27,1,2,0,0,0,0
+stat,dline,cabee001,0,1,5,27,0,1,0,0,0,0
+stat,dline,broot001,0,1,4,27,1,2,0,0,0,0
 stat,dline,trama001,0,1,6,27,1,1,0,1,0,0
 stat,dline,davis001,1,1,1,7,0,0,0,0,0,0
 stat,dline,boddm001,1,1,1,0,0,0,0,0,0,0
@@ -15400,7 +15400,7 @@ stat,dline,sakal001,0,1,4,9,4,1,0,1,0,0
 stat,dline,roeng001,0,1,9,15,2,0,0,0,0,0
 stat,dline,roeng001,0,2,8,9,1,0,0,0,0,0
 stat,dline,murre001,0,1,3,24,5,0,0,1,0,0
-stat,dline,lowej001,0,2,7,24,4,0,0,0,0,0
+stat,dline,lowej001,0,1,7,24,4,0,0,0,0,0
 stat,dline,ripkc001,0,1,6,24,1,7,1,2,0,0
 stat,dline,dauer001,0,1,4,15,3,1,0,1,0,0
 stat,dline,dauer001,0,2,5,9,0,1,0,0,0,0
@@ -60980,7 +60980,7 @@ stat,dline,dauer001,0,1,5,24,0,0,0,0,0,0
 stat,dline,murre001,0,1,3,24,6,0,0,0,0,0
 stat,dline,roeng001,0,1,9,24,5,0,0,0,0,0
 stat,dline,ripkc001,0,1,6,24,2,0,0,0,0,0
-stat,dline,dwyej001,0,2,7,24,2,0,0,0,0,0
+stat,dline,dwyej001,0,1,7,24,2,0,0,0,0,0
 stat,dline,sakal001,0,1,4,24,2,3,1,0,0,0
 stat,dline,dempr001,0,1,2,24,4,0,0,0,0,0
 stat,dline,frosd101,1,1,1,2,0,0,0,0,0,0
@@ -61667,7 +61667,7 @@ stat,dline,dilom001,0,1,7,24,5,0,0,0,0,0
 stat,dline,percj001,0,1,4,24,4,3,0,0,0,0
 stat,dline,hargm001,0,1,3,24,6,0,0,0,0,0
 stat,dline,castc001,0,1,9,24,2,0,0,0,0,0
-stat,dline,milbl001,0,2,5,24,1,1,1,0,0,0
+stat,dline,milbl001,0,1,5,24,1,1,1,0,0,0
 stat,dline,mannr001,0,1,8,24,2,1,0,0,0,0
 stat,dline,hassr001,0,1,2,18,2,0,0,0,0,0
 stat,dline,nahob001,0,1,2,6,1,0,0,0,0,0

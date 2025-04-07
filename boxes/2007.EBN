@@ -20,7 +20,7 @@ info,fieldcond,unknown
 info,precip,unknown
 info,sky,sunny
 info,timeofgame,174
-info,attendance,41803
+info,attendance,49548
 info,wp,lyonb003
 info,lp,saark001
 info,save,valvj001
@@ -75999,7 +75999,7 @@ stat,dline,uggld001,0,1,4,24,1,2,0,1,0,0
 stat,dline,jacom001,0,1,3,24,5,0,0,1,0,0
 stat,dline,willj004,0,1,7,24,5,0,0,0,0,0
 stat,dline,lindt001,0,1,9,24,2,0,0,0,0,0
-stat,dline,woodj001,0,2,5,24,0,1,0,0,0,0
+stat,dline,woodj001,0,1,5,24,0,1,0,0,0,0
 stat,dline,tream001,0,1,2,24,5,0,0,0,0,0
 stat,dline,ameza001,0,1,8,24,3,0,0,0,0,0
 stat,dline,olses001,0,1,1,3,0,0,0,0,0,0
@@ -138779,7 +138779,7 @@ stat,dline,cantj001,0,1,3,21,7,0,0,0,0,0
 stat,dline,cantj001,0,2,5,12,0,0,0,0,0,0
 stat,dline,vottj001,0,1,7,21,0,0,0,0,0,0
 stat,dline,vottj001,0,2,3,12,2,0,0,0,0,0
-stat,dline,ellij001,0,3,8,33,8,0,0,0,0,0
+stat,dline,ellij001,0,1,8,33,8,0,0,0,0,0
 stat,dline,rossd001,0,1,2,21,5,2,0,0,0,0
 stat,dline,valej004,0,1,2,12,2,0,0,0,0,0
 stat,dline,belim001,0,1,1,16,0,1,0,0,0,0

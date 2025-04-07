@@ -25133,7 +25133,7 @@ stat,dline,abrej003,0,1,3,27,10,0,0,1,0,0
 stat,dline,mccaj001,0,1,2,27,4,0,1,0,0,0
 stat,dline,jimee001,0,1,7,27,1,0,0,0,0,0
 stat,dline,jay-j001,0,1,9,9,2,0,0,0,0,0
-stat,dline,rondj002,0,2,5,27,1,1,0,0,0,0
+stat,dline,rondj002,0,1,5,27,1,1,0,0,0,0
 stat,dline,cordr001,0,1,8,27,4,0,0,0,0,0
 stat,dline,tilsc001,0,1,9,18,0,0,0,0,0,0
 stat,dline,bumma001,0,1,1,3,0,0,0,0,0,0
@@ -80532,7 +80532,7 @@ stat,dline,smitd007,0,1,7,24,2,0,0,0,0,0
 stat,dline,ruizr002,0,1,5,24,1,1,0,0,0,0
 stat,dline,rickj001,0,1,8,24,5,0,0,0,0,0
 stat,dline,davic003,0,1,3,24,3,0,0,0,0,0
-stat,dline,wilks001,0,2,9,24,6,0,0,0,0,0
+stat,dline,wilks001,0,1,9,24,6,0,0,0,0,0
 stat,dline,sevep001,0,1,2,24,5,0,0,0,0,0
 stat,dline,berrj001,1,1,1,18,0,0,0,0,0,0
 stat,dline,may-t001,1,1,1,3,0,0,0,0,0,0
@@ -118644,12 +118644,12 @@ stat,dline,petiy001,0,1,1,1,1,0,0,0,0,0
 stat,dline,wendj001,0,1,1,1,0,0,0,0,0,0
 stat,dline,bassc001,0,1,1,3,0,0,0,0,0,0
 stat,dline,grosr001,0,1,7,24,3,0,0,0,0,0
-stat,dline,profj001,0,2,4,24,2,0,0,0,0,0
+stat,dline,profj001,0,1,4,24,2,0,0,0,0,0
 stat,dline,piscs001,0,1,9,24,1,0,0,0,0,0
 stat,dline,brows003,0,1,3,24,6,1,0,0,0,0
 stat,dline,phegj001,0,1,2,24,6,1,0,0,0,0
 stat,dline,neuss001,0,1,5,24,1,2,0,0,0,0
-stat,dline,barrf001,0,2,6,24,0,2,0,0,0,0
+stat,dline,barrf001,0,1,6,24,0,2,0,0,0,0
 stat,dline,bolts001,0,1,8,24,4,0,0,0,0,0
 stat,dline,dunnj002,1,1,1,6,0,0,0,0,0,0
 stat,dline,mcclr001,1,1,1,6,0,0,0,0,0,0
@@ -125263,10 +125263,10 @@ stat,dline,bradj001,0,1,8,21,0,0,0,0,0,0
 stat,dline,travs001,0,1,7,3,0,0,0,0,0,0
 stat,dline,mortc002,1,1,1,21,0,0,0,0,0,0
 stat,dline,kolaa001,1,1,1,2,1,0,0,0,0,0
+stat,dline,kolaa001,1,2,3,1,0,0,0,0,0,0
 stat,dline,darnt001,1,1,3,21,4,0,0,0,0,0
 stat,dline,darnt001,1,2,2,6,2,0,0,0,0,0
 stat,dline,phamt001,1,1,7,27,3,0,0,0,0,0
-stat,dline,kolaa001,1,1,3,1,0,0,0,0,0,0
 stat,dline,adamw002,1,1,6,3,0,1,0,0,0,0
 stat,dline,garca003,1,1,9,27,2,0,0,0,0,0
 stat,dline,duffm002,1,1,5,27,0,0,0,0,0,0
