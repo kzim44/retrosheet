@@ -6576,7 +6576,7 @@ info,gametype,regular
 info,daynight,day
 info,attendance,4000
 info,umphome,harrm103
-info,ump1b,kempu901
+info,ump1b,kempe101
 info,ump3b,lee-u901
 info,wp,walke103
 info,lp,taylj108
@@ -6673,7 +6673,7 @@ info,daynight,night
 info,attendance,4000
 info,umphome,harrm103
 info,ump1b,lee-u901
-info,ump3b,kempu901
+info,ump3b,kempe101
 info,wp,hamij104
 info,lp,figuj102
 info,save,
@@ -6853,7 +6853,7 @@ info,gametype,regular
 info,daynight,day
 info,attendance,4800
 info,umphome,harrm103
-info,ump1b,kempu901
+info,ump1b,kempe101
 info,wp,browr103
 info,lp,adame101
 info,save,
@@ -6942,7 +6942,7 @@ info,gametype,regular
 info,daynight,day
 info,attendance,4800
 info,umphome,harrm103
-info,ump1b,kempu901
+info,ump1b,kempe101
 info,wp,willw105
 info,lp,walke103
 info,save,
@@ -7119,7 +7119,7 @@ info,number,1
 info,gametype,regular
 info,daynight,day
 info,umphome,harrm103
-info,ump1b,kempu901
+info,ump1b,kempe101
 info,wp,browr103
 info,lp,mannm101
 info,save,
@@ -7203,7 +7203,7 @@ info,date,1940/06/16
 info,number,2
 info,gametype,regular
 info,daynight,night
-info,umphome,kempu901
+info,umphome,kempe101
 info,ump1b,cartu901
 info,wp,hookl101
 info,lp,stevw101
@@ -7368,7 +7368,7 @@ info,date,1940/06/23
 info,number,1
 info,gametype,regular
 info,umphome,harrm103
-info,ump1b,kempu901
+info,ump1b,kempe101
 info,wp,browr103
 info,lp,mcheh101
 info,save,
@@ -7450,7 +7450,7 @@ info,date,1940/06/23
 info,number,2
 info,gametype,regular
 info,umphome,harrm103
-info,ump1b,kempu901
+info,ump1b,kempe101
 info,wp,hamij104
 info,lp,missj102
 info,save,
@@ -8341,7 +8341,7 @@ info,number,0
 info,gametype,exhibition
 info,daynight,night
 info,umphome,crumj101
-info,ump1b,kempu901
+info,ump1b,kempe101
 info,wp,millh104
 info,lp,browr103
 info,save,mcheh101
@@ -8427,7 +8427,7 @@ info,number,1
 info,gametype,regular
 info,daynight,day
 info,umphome,harrb901
-info,ump1b,kempu901
+info,ump1b,kempe101
 info,wp,hamij104
 info,lp,figuj102
 info,save,
@@ -8520,7 +8520,7 @@ info,number,2
 info,gametype,regular
 info,daynight,day
 info,umphome,harrb901
-info,ump1b,kempu901
+info,ump1b,kempe101
 info,wp,walke103
 info,lp,ruizs101
 info,save,
@@ -8785,7 +8785,7 @@ info,date,1940/08/18
 info,number,1
 info,gametype,exhibition
 info,umphome,forbf901
-info,ump1b,kempu901
+info,ump1b,kempe101
 info,wp,ferrw102
 info,lp,buchc101
 info,save,
@@ -8865,7 +8865,7 @@ info,date,1940/08/18
 info,number,2
 info,gametype,exhibition
 info,umphome,forbf901
-info,ump1b,kempu901
+info,ump1b,kempe101
 info,wp,walke103
 info,lp,millh104
 info,save,
@@ -8951,7 +8951,7 @@ info,number,1
 info,gametype,regular
 info,daynight,day
 info,umphome,turnc101
-info,ump1b,kempu901
+info,ump1b,kempe101
 info,wp,browr103
 info,lp,adame101
 info,save,
@@ -9036,7 +9036,7 @@ info,number,2
 info,gametype,regular
 info,daynight,day
 info,umphome,turnc101
-info,ump1b,kempu901
+info,ump1b,kempe101
 info,wp,jeffs101
 info,lp,barbb102
 info,save,
@@ -16975,7 +16975,7 @@ info,gametype,regular
 info,daynight,day
 info,attendance,2000
 info,umphome,harrm103
-info,ump1b,kempu901
+info,ump1b,kempe101
 info,wp,mannm101
 info,lp,mincp101
 info,save,
@@ -20456,7 +20456,7 @@ info,gametype,regular
 info,daynight,day
 info,attendance,2000
 info,umphome,harrm103
-info,ump2b,kempu901
+info,ump2b,kempe101
 info,wp,ruizs101
 info,lp,buchc101
 info,save,

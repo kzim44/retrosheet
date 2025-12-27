@@ -8,8 +8,10 @@ BSN,NL,Boston,Braves
 CAG,,Chicago,American Giants
 CHA,AL,Chicago,White Sox
 CHN,NL,Chicago,Cubs
+CI1,,Cincinnati,Tigers
 CIN,NL,Cincinnati,Reds
 CLE,AL,Cleveland,Indians
+CUS,,Cuban,Stars
 DET,AL,Detroit,Tigers
 HOM,NN2,Homestead,Grays
 KCM,,Kansas City,Monarchs
@@ -22,6 +24,7 @@ NY5,NN2,New York,Black Yankees
 NY6,NN2,New York,Cubans
 NYA,AL,New York,Yankees
 PH5,NN2,Philadelphia,Stars
+PH6,,Philadelphia,Bacharachs
 PHA,AL,Philadelphia,Athletics
 PHI,NL,Philadelphia,Phillies
 PIT,NL,Pittsburgh,Pirates

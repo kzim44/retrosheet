@@ -9,7 +9,10 @@ info,gametype,championship
 info,daynight,day
 info,timeofgame,105
 info,attendance,3000
-info,umphome,serau902
+info,umphome,
+info,ump1b,
+info,ump2b,
+info,ump3b,
 info,wp,mccld101
 info,lp,buckh101
 info,save,
@@ -368,7 +371,10 @@ info,gametype,championship
 info,daynight,day
 info,timeofgame,95
 info,attendance,8000
-info,umphome,serau902
+info,umphome,
+info,ump1b,
+info,ump2b,
+info,ump3b,
 info,wp,bellw103
 info,lp,mccld101
 info,save,

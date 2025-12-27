@@ -128,7 +128,9 @@ play,7,1,cartj001,12,.BSSS,K+SB3
 play,7,1,olerj001,30,IIII,IW
 play,7,1,molip001,11,BLX,7/L7DW
 play,8,0,jordr001,12,CFFBX,53
-play,8,0,thomm001,32,SSBBFBX,2/P23F/FL
+play,8,0,thomm001,32,SSBBFBX,NP
+sub,incap001,"Pete Incaviglia",0,8,11
+play,8,0,incap001,32,SSBBFBX,2/P23F/FL
 play,8,0,stock001,01,CX,S8/G6M
 play,8,0,dyksl001,21,CBBX,E4/G4D.1-2
 play,8,0,duncm001,00,,NP
@@ -136,6 +138,8 @@ sub,wardd001,"Duane Ward",1,0,1
 play,8,0,duncm001,02,.SSFS,K
 play,8,1,fernt001,00,,NP
 sub,masor001,"Roger Mason",0,0,1
+play,8,1,fernt001,00,,NP
+sub,incap001,"Pete Incaviglia",0,8,7
 play,8,1,fernt001,00,.X,8/L8LM
 play,8,1,sprae001,22,BFBFC,K/C
 play,8,1,bordp001,22,SSBBX,53/G56S
@@ -646,8 +650,10 @@ play,8,0,bordp001,32,B1CBBFFB,W.1-2
 play,8,0,castt001,00,,NP
 sub,sprae001,"Ed Sprague",0,9,11
 play,8,0,sprae001,02,.CFC,K/C
-play,8,0,hendr001,11,CBX,S8/L8RD.3-H(UR);2-H(TUR);1-2
-play,8,0,whitd001,12,FBTX,T8/L89D.2-H(TUR);1-H(TUR)
+com,"The four runs after this are unearned if Molitor's hit was ruled an E5;"
+com,"last three would be scored as (TUR) given an E5"
+play,8,0,hendr001,11,CBX,S8/L8RD.3-H;2-H;1-2
+play,8,0,whitd001,12,FBTX,T8/L89D.2-H;1-H
 play,8,0,alomr001,00,X,53
 play,8,1,stock001,00,,NP
 sub,timlm001,"Mike Timlin",0,9,1
@@ -677,7 +683,7 @@ data,er,wardd001,0
 data,er,greet001,7
 data,er,masor001,0
 data,er,westd001,2
-data,er,andel001,2
+data,er,andel001,3
 data,er,willm002,3
 data,er,thigb001,0
 id,PHI199310210

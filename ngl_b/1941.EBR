@@ -2839,7 +2839,7 @@ info,site,BAL10
 info,date,1941/07/27
 info,number,1
 info,gametype,exhibition
-info,attendance,8.1250000000000003E-2
+info,timeofgame,117
 info,umphome,cockp101
 info,ump2b,hollu902
 info,wp,gainj102
@@ -2919,7 +2919,7 @@ info,site,BAL10
 info,date,1941/07/27
 info,number,2
 info,gametype,exhibition
-info,attendance,6.9444444444444434E-2
+info,timeofgame,100
 info,umphome,cockp101
 info,ump2b,hollu902
 info,wp,andeb106
@@ -7272,7 +7272,7 @@ info,site,WAS09
 info,date,1941/09/01
 info,number,1
 info,gametype,regular
-info,attendance,0.125
+info,timeofgame,180
 info,umphome,kempe101
 info,wp,hillj104
 info,lp,browr103
@@ -14939,6 +14939,7 @@ info,hometeam,NY6
 info,site,NYC16
 info,date,1941/09/21
 info,number,1
+info,gametype,championship
 info,starttime,0:00PM
 info,daynight,day
 info,usedh,false
@@ -15046,6 +15047,7 @@ info,hometeam,NY6
 info,site,NYC16
 info,date,1941/09/21
 info,number,2
+info,gametype,exhibition
 info,starttime,0:00PM
 info,daynight,day
 info,usedh,false
@@ -15085,7 +15087,6 @@ start,blanh102,Heberto Blanco,1,6,6
 start,delgf101,Felle Delgado,1,7,7
 start,fernj101,Jose Maria Fernandez,1,8,2
 start,andeb106,Bill Anderson,1,9,1
-info,gametype,exhibition
 stat,bline,whatd101,0,1,1,5,0,0,0,0,0,-1,0,-1,0,0,-1,-1,0,-1,-1,-1
 stat,bline,willc106,0,2,1,5,1,2,0,0,0,-1,0,-1,0,0,-1,-1,0,-1,-1,-1
 stat,bline,benjj101,0,3,1,3,1,0,0,0,0,-1,2,-1,0,0,-1,-1,0,-1,-1,-1

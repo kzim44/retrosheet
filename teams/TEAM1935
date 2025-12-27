@@ -14,6 +14,7 @@ CHA,AL,Chicago,White Sox
 CHN,NL,Chicago,Cubs
 CIN,NL,Cincinnati,Reds
 CLE,AL,Cleveland,Indians
+CUS,,Cuban,Stars
 DET,AL,Detroit,Tigers
 HOM,NN2,Homestead,Grays
 KCM,,Kansas City,Monarchs
@@ -24,6 +25,7 @@ NNS,,Negro League,All Stars(N)
 NSH,NN2,Nashville,Elite Giants
 NW1,NN2,Newark,Dodgers
 NY1,NL,New York,Giants
+NY5,,New York,Black Yankees
 NY6,NN2,New York,Cubans
 NYA,AL,New York,Yankees
 PH5,NN2,Philadelphia,Stars

@@ -1039,7 +1039,7 @@ com,"ej,hoytw101,P,wilsf901,Bench jockeying"
 com,"ej,bushj102,P,wilsf901,Bench jockeying"
 com,"ej,shawb102,P,wilsf901,Bench jockeying"
 com,"ej,jones104,P,wilsf901,Bench jockeying"
-com,"ej,harph101,P,wilsf901,Bench jockeying"
+com,"ej,harph101,N,wilsf901,Bench jockeying"
 com,"ej,hofmf101,P,wilsf901,Bench jockeying"
 com,"ej,mitcj101,P,wilsf901,Bench jockeying"
 com,"$Yankees Hoyt, Bush, Shawkey, Jones, Harper,"
@@ -6763,7 +6763,7 @@ play,1,0,sislg101,??,,D7.1-H
 play,1,0,willk101,??,,43
 play,1,0,mcmam101,??,,8/F
 play,1,1,younr103,??,,7/F
-play,1,1,dykej101,??,,HR/8
+play,1,1,dykej101,??,,HR8/IPHR
 play,1,1,walkt101,??,,4/P
 play,1,1,hausj101,??,,7/L
 play,2,0,jacow101,??,,43

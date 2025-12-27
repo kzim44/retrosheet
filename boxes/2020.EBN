@@ -383,7 +383,7 @@ stat,dline,weavl001,1,1,1,12,0,1,0,0,0,0
 stat,dline,lopey001,1,1,1,3,0,0,0,0,0,0
 stat,dline,clart003,1,1,1,9,0,1,0,0,0,0
 stat,dline,widet001,1,1,1,3,1,0,0,0,0,0
-stat,dline,martk001,1,1,4,24,0,4,0,0,0,0
+stat,dline,martk001,1,1,4,24,0,3,0,0,0,0
 stat,dline,jay-j001,1,1,7,3,0,0,0,0,0,0
 stat,dline,vargi001,1,1,3,27,9,1,1,0,0,0
 stat,dline,marts002,1,1,8,24,2,0,0,0,0,0
@@ -3184,7 +3184,7 @@ stat,dline,gallj002,0,1,9,24,2,0,0,0,0,0
 stat,dline,odorr001,0,1,4,24,3,0,0,0,0,0
 stat,dline,tejea001,0,1,6,24,0,2,0,0,0,0
 stat,dline,huffs001,0,1,2,24,6,0,0,0,0,0
-stat,dline,aposs001,0,1,3,24,5,1,0,0,0,0
+stat,dline,aposs001,0,1,3,24,5,0,0,0,0,0
 stat,dline,white006,0,1,7,24,3,0,0,0,0,0
 stat,dline,smitc006,1,1,1,12,0,0,0,0,0,0
 stat,dline,smitr005,1,1,1,15,0,1,0,0,0,0
@@ -4825,7 +4825,7 @@ stat,dline,darnt001,1,1,2,27,9,1,0,1,0,0
 stat,dline,duvaa001,1,1,7,27,4,0,0,0,0,0
 stat,dline,rilea001,1,1,3,21,2,0,1,0,0,0
 stat,dline,freef001,1,1,3,6,1,0,0,0,0,0
-stat,dline,camaj001,1,1,5,27,0,3,0,0,0,0
+stat,dline,camaj001,1,1,5,27,0,2,0,0,0,0
 stat,dline,culbc001,1,1,4,24,3,0,0,1,0,0
 stat,dline,hecha001,1,1,4,3,1,0,0,0,0,0
 stat,dline,incie001,1,1,8,24,2,0,0,0,0,0
@@ -5604,7 +5604,7 @@ stat,dline,mccua001,0,1,7,27,3,0,0,0,0,0
 stat,dline,hoskr001,0,1,3,27,8,1,1,1,0,0
 stat,dline,harpb003,0,1,9,27,0,1,0,0,0,0
 stat,dline,gregd001,0,1,6,27,2,6,0,1,0,0
-stat,dline,seguj002,0,1,4,27,0,2,0,1,0,0
+stat,dline,seguj002,0,1,4,27,0,1,0,1,0,0
 stat,dline,bohma001,0,1,5,27,1,2,0,0,0,0
 stat,dline,knapa001,0,1,2,27,11,1,0,0,0,0
 stat,dline,hasea001,0,1,8,12,1,0,0,0,0,0
@@ -6064,7 +6064,7 @@ stat,dline,finnk001,0,1,1,2,0,0,0,0,0,0
 stat,dline,raint003,0,1,1,3,0,0,0,0,0,0
 stat,dline,suerw002,0,1,1,3,0,0,0,0,0,0
 stat,dline,harrw002,0,1,1,3,0,0,0,0,0,0
-stat,dline,hudsd001,0,1,1,3,0,1,0,0,0,0
+stat,dline,hudsd001,0,1,1,3,0,0,0,0,0,0
 stat,dline,roblv001,0,1,8,21,0,0,0,0,0,0
 stat,dline,turnt001,0,1,6,21,1,1,1,1,0,0
 stat,dline,suzuk001,0,1,2,21,11,0,0,0,0,0
@@ -9237,7 +9237,7 @@ info,site,CHI11
 info,date,2020/08/17
 info,number,1
 info,starttime,4:15PM
-info,daynight,day
+info,daynight,night
 info,innings,7
 info,tiebreaker,2
 info,usedh,true
@@ -9762,7 +9762,7 @@ info,site,CHI11
 info,date,2020/08/19
 info,number,2
 info,starttime,5:07PM
-info,daynight,night
+info,daynight,day
 info,innings,7
 info,tiebreaker,2
 info,usedh,true
@@ -10385,7 +10385,7 @@ info,site,CHI11
 info,date,2020/09/05
 info,number,1
 info,starttime,4:15PM
-info,daynight,day
+info,daynight,night
 info,innings,7
 info,tiebreaker,2
 info,usedh,true
@@ -13620,7 +13620,7 @@ info,site,CIN09
 info,date,2020/08/29
 info,number,1
 info,starttime,4:10PM
-info,daynight,day
+info,daynight,night
 info,innings,7
 info,tiebreaker,2
 info,usedh,true
@@ -17157,7 +17157,7 @@ stat,dline,harvj001,1,1,1,3,0,0,0,0,0,0
 stat,dline,hampg001,1,1,8,27,0,0,0,0,0,0
 stat,dline,stort001,1,1,6,27,2,5,0,1,0,0
 stat,dline,blacc001,1,1,9,27,1,0,0,0,0,0
-stat,dline,arenn001,1,1,5,27,4,4,1,2,0,0
+stat,dline,arenn001,1,1,5,27,4,5,1,2,0,0
 stat,dline,murpd006,1,1,3,27,10,1,0,2,0,0
 stat,dline,tapir001,1,1,7,27,4,0,0,0,0,0
 stat,dline,mcmar001,1,1,4,27,1,1,0,1,0,0
@@ -21479,7 +21479,7 @@ stat,dline,jansk001,1,1,1,1,0,0,0,0,0,0
 stat,dline,bettm001,1,1,9,27,2,0,0,0,0,0
 stat,dline,seagc001,1,1,6,27,0,2,1,0,0,0
 stat,dline,polla001,1,1,8,27,1,0,0,0,0,0
-stat,dline,bellc002,1,1,3,27,17,1,0,0,0,0
+stat,dline,bellc002,1,1,3,27,17,0,0,0,0,0
 stat,dline,taylc001,1,1,7,21,1,0,0,0,0,0
 stat,dline,taylc001,1,2,4,6,0,1,0,0,0,0
 stat,dline,muncm001,1,1,5,27,0,4,0,0,0,0
@@ -26593,7 +26593,7 @@ stat,dline,thame001,0,1,3,18,3,0,1,0,0,0
 stat,dline,holtb002,0,1,9,18,2,0,0,0,0,0
 stat,dline,gomey001,0,1,2,18,7,0,0,0,0,0
 stat,dline,garcl006,0,1,4,18,0,1,1,0,0,0
-stat,dline,kiebc001,0,1,5,18,0,3,0,0,0,0
+stat,dline,kiebc001,0,1,5,18,0,2,0,0,0,0
 stat,dline,steva001,0,1,8,18,3,0,0,0,0,0
 stat,dline,alcas001,1,1,1,18,0,0,0,0,0,0
 stat,dline,kintb001,1,1,1,3,0,1,0,0,0,0
@@ -34603,7 +34603,7 @@ stat,dline,boxbb001,0,1,1,3,0,0,0,0,0,0
 stat,dline,kintb001,0,1,1,3,0,0,1,0,0,0
 stat,dline,bertj001,0,1,9,27,1,0,0,0,0,0
 stat,dline,dickc002,0,1,7,27,4,0,0,0,0,0
-stat,dline,aguij001,0,1,3,27,7,2,0,0,0,0
+stat,dline,aguij001,0,1,3,27,7,1,0,0,0,0
 stat,dline,andeb006,0,1,5,27,1,1,0,0,0,0
 stat,dline,cervf001,0,1,2,27,5,1,1,0,0,0
 stat,dline,diazi001,0,1,4,27,3,1,0,0,0,0
@@ -34615,7 +34615,7 @@ stat,dline,mcclr001,1,1,1,3,0,0,0,0,0,0
 stat,dline,piven001,1,1,1,10,0,0,0,0,0,0
 stat,dline,nerih001,1,1,1,2,0,0,0,0,0,0
 stat,dline,hasea001,1,1,8,27,4,0,0,0,0,0
-stat,dline,hoskr001,1,1,3,27,8,1,0,0,0,0
+stat,dline,hoskr001,1,1,3,27,8,0,0,0,0,0
 stat,dline,harpb003,1,1,9,27,3,0,0,0,0,0
 stat,dline,realj001,1,1,2,27,7,1,0,0,0,0
 stat,dline,gregd001,1,1,6,27,1,1,0,0,0,0
@@ -38078,7 +38078,7 @@ stat,dline,gurrl001,0,1,7,18,1,0,0,0,0,0
 stat,dline,hernt002,0,1,9,18,2,0,0,0,0,0
 stat,dline,gricr001,0,1,8,18,0,1,0,0,0,0
 stat,dline,guerv002,0,1,3,18,6,1,0,0,0,0
-stat,dline,panij002,0,1,4,18,1,3,0,0,0,0
+stat,dline,panij002,0,1,4,18,1,2,0,0,0,0
 stat,dline,espis001,0,1,6,18,0,0,0,0,0,0
 stat,dline,jansd001,0,1,2,18,7,1,0,0,0,0
 stat,dline,haled001,1,1,1,10,0,1,0,0,0,0
@@ -38322,13 +38322,13 @@ stat,dline,walkt004,0,1,1,18,0,0,1,0,0,0
 stat,dline,hatct001,0,1,1,3,0,0,0,0,0,0
 stat,dline,yamas001,0,1,1,2,0,0,0,0,0,0
 stat,dline,bassa001,0,1,1,4,1,1,0,0,0,0
-stat,dline,biggc002,0,1,5,27,1,1,0,0,0,0
+stat,dline,biggc002,0,1,5,27,1,0,0,0,0,0
 stat,dline,bichb001,0,1,6,27,1,3,0,0,0,0
 stat,dline,hernt002,0,1,9,27,1,0,0,0,0,0
 stat,dline,gurrl001,0,1,7,27,5,0,0,0,0,0
 stat,dline,guerv002,0,1,3,21,1,1,1,0,0,0
 stat,dline,shawt001,0,1,3,6,2,1,0,0,0,0
-stat,dline,panij002,0,1,4,27,1,1,1,0,0,0
+stat,dline,panij002,0,1,4,27,1,0,1,0,0,0
 stat,dline,davij007,0,1,8,27,2,0,0,0,0,0
 stat,dline,jansd001,0,1,2,27,12,0,0,0,0,0
 stat,dline,media001,1,1,1,12,1,2,0,0,0,0
@@ -40808,7 +40808,7 @@ stat,dline,goodb001,0,1,8,18,0,0,0,0,0,0
 stat,dline,farmk001,0,1,7,3,0,0,0,0,0,0
 stat,dline,akiys001,0,1,7,18,0,0,0,0,0,0
 stat,dline,akiys001,0,2,8,3,0,0,0,0,0,0
-stat,dline,garcj007,0,1,6,21,3,3,0,2,0,0
+stat,dline,garcj007,0,1,6,21,3,2,0,2,0,0
 stat,dline,barnt001,0,1,2,21,10,0,0,0,0,0
 stat,dline,poncc002,1,1,1,12,0,0,0,0,0,0
 stat,dline,howas002,1,1,1,3,0,0,0,0,0,0
@@ -49383,7 +49383,7 @@ stat,dline,martk001,0,1,8,24,2,0,0,0,0,0
 stat,dline,walkc002,0,1,3,24,7,0,1,2,0,0
 stat,dline,calhk001,0,1,9,24,2,0,0,0,0,0
 stat,dline,mathw001,0,1,5,24,0,2,0,1,0,0
-stat,dline,ahmen001,0,1,6,24,1,3,0,1,0,0
+stat,dline,ahmen001,0,1,6,24,1,2,0,1,0,0
 stat,dline,varsd001,0,1,7,24,1,0,0,0,0,0
 stat,dline,kellc002,0,1,2,24,11,1,0,1,0,0
 stat,dline,gausk001,1,1,1,18,0,1,0,0,0,0

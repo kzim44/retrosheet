@@ -545,7 +545,7 @@ info,hometeam,NNS
 info,site,PIT06
 info,date,1934/10/23
 info,number,0
-info,starttime,1:42
+info,starttime,
 info,daynight,night
 info,usedh,false
 info,gametype,exhibition
@@ -560,7 +560,7 @@ info,windspeed,-1
 info,fieldcond,unknown
 info,precip,unknown
 info,sky,unknown
-info,timeofgame,-1
+info,timeofgame,102
 info,attendance,2500
 info,wp,huntb106
 info,lp,semlj101

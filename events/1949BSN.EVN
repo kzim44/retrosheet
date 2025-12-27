@@ -7175,9 +7175,9 @@ info,umphome,conlj102
 info,ump1b,warnl101
 info,ump2b,(none)
 info,ump3b,stewb901
-info,scorer,"115"
-info,translator,"Bob Kistler"
-info,inputter,"Greg Beston"
+info,scorer,"115,140"
+info,translator,"Bob Kistler/RWood/RWood"
+info,inputter,"Greg Beston/RWood/RWood"
 info,inputtime,1994/08/03 11:24AM
 info,howscored,unknown
 info,pitches,none
@@ -7220,7 +7220,7 @@ play,1,1,reisp101,??,,8
 play,1,1,ellib103,??,,W
 play,1,1,rickm101,??,,D.2-H;1-H
 play,1,1,holmt101,??,,D.2-H
-play,1,1,darka101,??,,S.2-H
+play,1,1,darka101,??,,S7.2-H
 play,1,1,salkb101,??,,9
 play,2,0,kiner101,??,,FLE5
 play,2,0,kiner101,??,,W
@@ -7249,13 +7249,13 @@ play,4,0,westw102,??,,HR/7D.1-H
 play,4,0,basgm101,??,,K
 play,4,0,rojes101,??,,S
 play,4,0,masip101,??,,54(1)/FO
-play,4,0,poatr101,??,,6(1)/G/FO
+play,4,0,poatr101,??,,6(1)/FO
 play,4,1,stane101,??,,K
 play,4,1,flete101,??,,W
 play,4,1,reisp101,??,,53.1-2
 play,4,1,ellib103,??,,W
 play,4,1,rickm101,??,,D/P1.2-H;1-3
-com,"$a high wind-blown pop up that landed on the back of the mound"
+com,"$high wind-blown pop up landed on back of mound"
 play,4,1,holmt101,??,,8/L
 play,5,0,castp102,??,,7
 play,5,0,hoppj102,??,,3/FL
@@ -7270,42 +7270,44 @@ play,6,0,kiner101,??,,23
 play,6,0,westw102,??,,53
 play,6,0,basgm101,??,,63
 play,6,1,reisp101,??,,3/FL
-play,6,1,ellib103,??,,4
+play,6,1,ellib103,??,,4/P
 play,6,1,rickm101,??,,S
 play,6,1,holmt101,??,,D8.1-H
-play,6,1,darka101,??,,6
+play,6,1,darka101,??,,6/P
 play,7,0,rojes101,??,,W
 play,7,0,masip101,??,,D/78.1-3
 play,7,0,poatr101,??,,NP
 sub,fitze101,"Ed Fitzgerald",0,9,11
-play,7,0,fitze101,??,,S.3-H;2-3
+play,7,0,fitze101,??,,S8.3-H;2-3
 play,7,0,castp102,??,,7.3-H
 play,7,0,hoppj102,??,,K
-play,7,0,restd101,??,,4
+play,7,0,restd101,??,,4/P
 play,7,1,salkb101,??,,NP
 sub,caseh101,"Hugh Casey",0,9,1
-play,7,1,salkb101,??,,99#
+play,7,1,salkb101,??,,8/F
 play,7,1,spahw101,??,,E5/P
 play,7,1,stane101,??,,3/FL/DP.1X3(85)
-com,"$Johnny Hopp's throw to 2B was wild"
-play,8,0,kiner101,??,,99#
+com,"$1Bman Hopp threw wildly back to 1st to try to double"
+com,"off Spahn who was running with the pitch. Spahn then"
+com,"was thrown out trying to advance to 2nd."
+play,8,0,kiner101,??,,7
 play,8,0,westw102,??,,D
 play,8,0,basgm101,??,,K
-play,8,0,rojes101,??,,99#
+play,8,0,rojes101,??,,7
 play,8,1,flete101,??,,6/P
-play,8,1,reisp101,??,,99#
-play,8,1,ellib103,??,,99#
+play,8,1,reisp101,??,,8/F
+play,8,1,ellib103,??,,7/F
 play,9,0,masip101,??,,S7
 play,9,0,caseh101,??,,NP
 sub,murtd101,"Danny Murtaugh",0,9,11
-play,9,0,murtd101,??,,S8/P.1-2#
+play,9,0,murtd101,??,,S8/P.1-2
 play,9,0,castp102,??,,NP
 sub,lombv101,"Vic Lombardi",0,9,12
 play,9,0,castp102,??,,NP
 sub,pottn102,"Nels Potter",1,9,1
-play,9,0,castp102,??,,D/78.2-H;1-3
+play,9,0,castp102,??,,D8/78.2-H;1-3
 play,9,0,hoppj102,??,,S9.3-H;2-H
-play,9,0,restd101,??,,99/SH.1-2#
+play,9,0,restd101,??,,14/SH.1-2
 play,9,0,kiner101,??,,IW
 play,9,0,westw102,00,H,HP.2-3;1-2
 play,9,0,basgm101,??,,NP
@@ -7317,7 +7319,7 @@ play,9,0,rojes101,??,,E8/L.3-H(RBI)(UR);2-H(NR)(UR);1-3;B-2
 play,9,0,masip101,??,,K/C
 play,9,0,lombv101,??,,NP
 sub,safft101,"Tom Saffell",0,9,11
-play,9,0,safft101,??,,99/G#
+play,9,0,safft101,??,,43
 play,9,1,rickm101,??,,NP
 sub,bocke101,"Eddie Bockman",0,6,4
 play,9,1,rickm101,??,,NP
@@ -7332,7 +7334,7 @@ play,9,1,darka101,??,,65(2)/FO.1-2
 play,9,1,salkb101,??,,2/FL
 play,9,1,hogub101,??,,NP
 sub,heatj101,"Jeff Heath",1,9,11
-play,9,1,heatj101,??,,4/34D
+play,9,1,heatj101,??,,4/P34D
 data,er,bonht101,6
 data,er,poatr101,3
 data,er,caseh101,0

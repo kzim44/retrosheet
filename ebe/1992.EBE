@@ -355,7 +355,7 @@ stat,dline,berrd002,1,1,2,21,4,1,0,0,0,0
 stat,dline,lopej001,1,1,2,6,2,0,0,0,0,0
 stat,dline,lemkm001,1,1,4,21,1,2,0,1,0,0
 stat,dline,lemkm001,1,2,5,6,0,0,0,0,0,0
-stat,dline,glavt001,1,1,1,3,0,0,0,0,0,0
+stat,dline,glavt001,1,1,1,3,0,1,0,0,0,0
 stat,dline,leibc001,1,1,1,9,0,1,0,0,0,0
 stat,dline,freem001,1,1,1,6,0,1,0,0,0,0
 stat,dline,sandd001,1,1,8,9,0,0,0,0,0,0
@@ -896,12 +896,12 @@ info,ump2b,wendh901
 info,ump3b,koscg901
 info,umplf,hallt901
 info,umprf,tscht901
-info,temp,0
-info,winddir,unknown
-info,windspeed,-1
+info,temp,72
+info,winddir,rtol
+info,windspeed,10
 info,fieldcond,unknown
-info,precip,unknown
-info,sky,unknown
+info,precip,none
+info,sky,night
 info,timeofgame,175
 info,attendance,59372
 info,wp,browk001
