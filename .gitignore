@@ -1,1 +1,9 @@
 workspace.xml
+
+# Large CSV bundle files exceeding GitHub's 100MB limit -- not tracked in
+# git; kept on disk locally and regenerated via scripts/refresh (bbdb repo).
+/plays.csv
+/batting.csv
+/fielding.csv
+/pitching.csv
+/teamstats.csv
